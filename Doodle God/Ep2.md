@@ -1,0 +1,45 @@
+# Episode 2
+
+- Concrete + Bricks = House
+- Fish + Beast = Dolphin
+- Wood + Boat = Ship
+- Oil + Cart = Car
+- Car + Air = Airplane
+- Fabric + Human = Clothes
+- Air + Worm = Butterfly
+- Storm + Bird = Thunderbird
+- Glass + House = Skyscraper
+- Domestic Animal + Grass = Milk + Fertilizer
+- Limestone + Fertilizer = Saltpeter
+- Saltpeter + Sulfur = Gunpowder
+- Weapon + Gunpowder = Firearm
+- Ship + Fabric = Frigate
+- Ship + Steam Engine = Steamship
+- Void + Glass = Lightbulb
+- Void + Electricity = Radio Wave
+- Light Bulb + Radio Wave = TV
+- Tv + Book = Computer
+- Radiowave + Radiowave = Radiation
+- Metal + Radiation = Plutonium
+- Plutonium + Weapon = Nuclear Bomb
+- Computer + Radio Wave = Cell Phone
+- Energy + Fire = Plasma
+- Plasma + Void = Sun
+- Sun + Grass = Flower
+- Sun + Flower = Sunflower
+- Tree + Flower = Apple
+- Sand + Tree = Palm Tree
+- Seeds + Energy = Coffee
+- Void + Airplane = Rocket
+- Void + Rocket= Satellite
+- Radio Wave + Fire = Laser
+- Laser + Book = CD
+- Metal + Water = Quicksilver
+- Quick Silver Demigod= Philospers Stone
+- Apple + Cell Phone = Gold
+- Human + Computer = Cyborg
+- Computer + Computer = Internet
+
+## Hmmmmm... found 'em already?
+- Water + Glass = Ice
+- Air + Ice = Snow

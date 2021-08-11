@@ -92,6 +92,7 @@
 
 ## Set 4
 
+- Water + Glass = Ice
 - Air + Ice = Snow
 - Human + Stone = Hut
 - Wood + Water = Boat
@@ -104,18 +105,3 @@
 - Life + Tree = Treant
 - Weeds + Earth = Mushroom
 - Water + Cement = Concrete
-- Concrete + Bricks = House
-- Fish + Beast = Dolphin
-- Wood + Boat = Ship
-- Oil + Cart = Car
-- Car + Air = Airplane
-- Fabric + Human = Clothes
-- Air + Worm = Butterfly
-- Storm + Bird = Thunderbird
-- Glass + House = Skyscraper
-- Domestic Animal + Grass = Milk + Fertilizer
-- Limestone + Fertilizer = Saltpeter
-- Saltpeter + Sulfur = Gunpowder
-- Weapon + Gunpowder = Firearm
-- Ship + Fabric = Frigate
-- Ship + Steam Engine = Steamship
